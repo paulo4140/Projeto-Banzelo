@@ -1,0 +1,123 @@
+body {
+    margin: 0 auto;
+  
+    width: 100%;
+    height: 100%;
+    
+    
+}
+#cor{
+    width: 100%;
+    background-color: rgb(35, 10, 56);
+   height: 70px;
+  
+   position: relative;
+}
+#cor #pc{
+    position: relative;
+    margin-left: 7%;
+    color: brown;
+    top: -35px;
+}
+#dc{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+
+
+#cor strong{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(85, 84, 84);
+}
+#cor1 ul li {
+    display: inline-block;
+    float: left;
+    padding:5px ;
+    margin-left: 20px;
+
+}
+#cor1 ul{
+    margin-left: 10%;
+    
+}
+#cor1 a{
+ text-decoration: none;
+ font-family: Vehicle Breaks Down Regular;
+ color: rgb(66, 82, 128);
+ font-size: 18px;
+ 
+
+}
+#cor1 li a:hover{
+    border-bottom: 5px solid yellow;
+}
+#nt{
+    position: relative;
+   margin-left: 75%;
+   top: -100px;
+   font-family: houston;
+   font-size: 24px;
+   color: bisque;
+}
+#nt  img {
+   
+   cursor: pointer; 
+    
+}
+#ld{
+    position: relative;
+   margin-left: 83%;
+   top: -163px;
+   font-family: houston;
+   font-size: 24px;
+   color: bisque; 
+}
+#ld img{
+ cursor: pointer;
+}
+section h1{
+    color: rgb(36, 36, 36);
+    text-align: center;
+    font-size: 38px;
+}
+section strong{
+    color: rgb(56, 56, 59);
+}
+
+section   #plant img{
+    width: 334px;
+    height: 350px;
+
+}
+
+section td{
+    color: rgb(75, 75, 85);
+    text-align: left;
+    font-family: arial;
+}
+section td strong{
+    color:rgb(100, 50, 50);
+    font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+    
+} 
+section td #str{
+    color:rgb(25, 46, 20);
+    font-size: 26px;
+font-family: Ralgani;
+    
+} 
+section  #ex{
+    color:rgb(85, 84, 84);
+    text-align: center;
+    
+} 
+
+
+video{
+    margin-left: 25% ;
+
+}
+
+
+
